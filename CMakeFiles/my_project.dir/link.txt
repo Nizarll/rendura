@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/my_project.dir/main.c.o -o my_project  -L/usr/lib/x86_64-linux-gnu  -lSDL2 /usr/lib/x86_64-linux-gnu/libGLEW.so src/gl_object/libgl_object.a src/renderer/librenderer.a -lm -lGL -lGLU 

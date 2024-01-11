@@ -1,0 +1,21 @@
+cmake_minimum_required(VERSION 3.10)
+project(MyProject)
+
+# Find SDL2 library
+find_package(SDL2 REQUIRED)
+
+# Find GLEW library
+find_package(GLEW REQUIRED)
+
+# Include SDL2 headers
+target_include_directories(my_project PRIVATE ${SDL2_INCLUDE_DIRS})
+
+# Include GLEW headers
+target_include_directories(my_project PRIVATE ${GLEW_INCLUDE_DIRS})
+
+# Add your source files
+add_executable(my_project main.cpp)
+
+# Link with SDL2, GLEW, OpenGL, and GLU libraries
+target_link_libraries(my_project PRIVATE ${SDL2_LIBRARIES} ${GLEW_LIBRARIES} GL GLU)
+

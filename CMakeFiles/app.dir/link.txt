@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/app.dir/main.c.o -o app  -L/usr/lib/x86_64-linux-gnu  -lSDL2 

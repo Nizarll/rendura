@@ -1,0 +1,9 @@
+/home/nizar/Documents/c_project/sdl_c/CMakeFiles/my_project.dir
+/home/nizar/Documents/c_project/sdl_c/CMakeFiles/edit_cache.dir
+/home/nizar/Documents/c_project/sdl_c/CMakeFiles/rebuild_cache.dir
+/home/nizar/Documents/c_project/sdl_c/src/gl_object/CMakeFiles/gl_object.dir
+/home/nizar/Documents/c_project/sdl_c/src/gl_object/CMakeFiles/edit_cache.dir
+/home/nizar/Documents/c_project/sdl_c/src/gl_object/CMakeFiles/rebuild_cache.dir
+/home/nizar/Documents/c_project/sdl_c/src/renderer/CMakeFiles/renderer.dir
+/home/nizar/Documents/c_project/sdl_c/src/renderer/CMakeFiles/edit_cache.dir
+/home/nizar/Documents/c_project/sdl_c/src/renderer/CMakeFiles/rebuild_cache.dir
