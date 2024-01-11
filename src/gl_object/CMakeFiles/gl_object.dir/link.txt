@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgl_object.a CMakeFiles/gl_object.dir/gl_object.c.o
+/usr/bin/ranlib libgl_object.a

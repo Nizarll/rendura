@@ -1,0 +1,3 @@
+/home/nizar/Documents/c_project/sdl_c/src/renderer/CMakeFiles/renderer.dir
+/home/nizar/Documents/c_project/sdl_c/src/renderer/CMakeFiles/edit_cache.dir
+/home/nizar/Documents/c_project/sdl_c/src/renderer/CMakeFiles/rebuild_cache.dir
